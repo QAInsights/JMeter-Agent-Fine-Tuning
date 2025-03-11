@@ -1,4 +1,4 @@
-add a http  request, httpsampler,org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy,org.apache.jmeter.protocol.http.control.gui.HttpTestSampleGui, 5.4.3, false
+http sampler,org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy,org.apache.jmeter.protocol.http.control.gui.HttpTestSampleGui, 5.4.3, false
 ftp request,org.apache.jmeter.protocol.ftp.sampler.FTPSampler,org.apache.jmeter.protocol.ftp.control.gui.FtpTestSamplerGui, 5.4.3, false
 http request,org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy,org.apache.jmeter.protocol.http.control.gui.HttpTestSampleGui, 5.4.3, false
 jdbc request,org.apache.jmeter.protocol.jdbc.sampler.JDBCSampler,org.apache.jmeter.testbeans.gui.TestBeanGUI, 5.4.3, false
